@@ -7,5 +7,6 @@
   * Diagonal Difference [https://gist.github.com/kei9327/8a85d9b4c60a5e83b3d287f103d6bbe6] - 2019/05/31
   * Plus Minus [https://gist.github.com/kei9327/9ace5a2382bcc0091468b10a01c360a0] - 2019/06/03
   * Staircase [https://gist.github.com/kei9327/b692b455473dc4ecd5cb38154631145a] 2019/06/04
+  * MiniMaxSum [https://gist.github.com/kei9327/c5af56c22d92bb21e7420afdd909aeb7] 2019/06/05
   
  
