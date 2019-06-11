@@ -9,5 +9,6 @@
   * Staircase [https://gist.github.com/kei9327/b692b455473dc4ecd5cb38154631145a] 2019/06/04
   * MiniMaxSum [https://gist.github.com/kei9327/c5af56c22d92bb21e7420afdd909aeb7] 2019/06/05
   * birthdayCakeCandles [https://gist.github.com/kei9327/cffb971fab9998c3e3a540294b522910] 2019/06/07
+  * timeConvertion [https://gist.github.com/kei9327/768162233f22db725afe3c876a232801] 2019/06/10
   
  
