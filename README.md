@@ -10,5 +10,5 @@
   * MiniMaxSum [https://gist.github.com/kei9327/c5af56c22d92bb21e7420afdd909aeb7] 2019/06/05
   * birthdayCakeCandles [https://gist.github.com/kei9327/cffb971fab9998c3e3a540294b522910] 2019/06/07
   * timeConvertion [https://gist.github.com/kei9327/768162233f22db725afe3c876a232801] 2019/06/10
-  
+  * Grading Students [https://gist.github.com/kei9327/efc338cec08bb3da75940029df18f835] 2019/06/11
  
