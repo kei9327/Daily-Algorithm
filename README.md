@@ -12,4 +12,5 @@
   * timeConvertion [https://gist.github.com/kei9327/768162233f22db725afe3c876a232801] 2019/06/10
   * Grading Students [https://gist.github.com/kei9327/efc338cec08bb3da75940029df18f835] 2019/06/11
   * countApplesAndOranges [https://gist.github.com/kei9327/78348024019a389470ee5c895f5ca121] 2019/06/12
+  * Kangroo [https://gist.github.com/kei9327/b0d7c26b063a97b4a9da87b1fa5970e7] 2019/06/13
  
