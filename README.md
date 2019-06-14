@@ -10,7 +10,10 @@
   * MiniMaxSum [https://gist.github.com/kei9327/c5af56c22d92bb21e7420afdd909aeb7] 2019/06/05
   * birthdayCakeCandles [https://gist.github.com/kei9327/cffb971fab9998c3e3a540294b522910] 2019/06/07
   * timeConvertion [https://gist.github.com/kei9327/768162233f22db725afe3c876a232801] 2019/06/10
+  
+# Implementation
   * Grading Students [https://gist.github.com/kei9327/efc338cec08bb3da75940029df18f835] 2019/06/11
   * countApplesAndOranges [https://gist.github.com/kei9327/78348024019a389470ee5c895f5ca121] 2019/06/12
   * Kangroo [https://gist.github.com/kei9327/b0d7c26b063a97b4a9da87b1fa5970e7] 2019/06/13
+  * Breaking the Records[https://gist.github.com/kei9327/5e35feaa6c217527d86c1278c7c54f77] 2019/06/14
  
