@@ -16,4 +16,5 @@
   * countApplesAndOranges [https://gist.github.com/kei9327/78348024019a389470ee5c895f5ca121] 2019/06/12
   * Kangroo [https://gist.github.com/kei9327/b0d7c26b063a97b4a9da87b1fa5970e7] 2019/06/13
   * Breaking the Records[https://gist.github.com/kei9327/5e35feaa6c217527d86c1278c7c54f77] 2019/06/14
+  * Birthday [https://gist.github.com/kei9327/ec8a36e99a9fe3081dea67f88cacb2f3] 2019/06/18
  
