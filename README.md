@@ -18,4 +18,5 @@
   * Breaking the Records[https://gist.github.com/kei9327/5e35feaa6c217527d86c1278c7c54f77] 2019/06/14
   * Birthday [https://gist.github.com/kei9327/ec8a36e99a9fe3081dea67f88cacb2f3] 2019/06/18
   * DivisibleSumPairs [https://gist.github.com/kei9327/1b45830956ac14c95a7d231d958d47bf] 2019/06/19
+  * Migratory Birds [https://gist.github.com/kei9327/60ac48c4a959c401d99fba0579e19f8f] 2019/06/20
  
