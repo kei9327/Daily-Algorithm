@@ -20,4 +20,5 @@
   * DivisibleSumPairs [https://gist.github.com/kei9327/1b45830956ac14c95a7d231d958d47bf] 2019/06/18
   * Migratory Birds [https://gist.github.com/kei9327/60ac48c4a959c401d99fba0579e19f8f] 2019/06/19
   * DayOfProgrammer [https://gist.github.com/kei9327/7ae7be23e58c9943def1508ac21a1df8] 2019/06/20
+  * bonAppetit [https://gist.github.com/kei9327/51e1115ad884e3f05a82de3f63718ea6] 2019/06/21
  
