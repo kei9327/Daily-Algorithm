@@ -16,7 +16,8 @@
   * countApplesAndOranges [https://gist.github.com/kei9327/78348024019a389470ee5c895f5ca121] 2019/06/12
   * Kangroo [https://gist.github.com/kei9327/b0d7c26b063a97b4a9da87b1fa5970e7] 2019/06/13
   * Breaking the Records[https://gist.github.com/kei9327/5e35feaa6c217527d86c1278c7c54f77] 2019/06/14
-  * Birthday [https://gist.github.com/kei9327/ec8a36e99a9fe3081dea67f88cacb2f3] 2019/06/18
-  * DivisibleSumPairs [https://gist.github.com/kei9327/1b45830956ac14c95a7d231d958d47bf] 2019/06/19
-  * Migratory Birds [https://gist.github.com/kei9327/60ac48c4a959c401d99fba0579e19f8f] 2019/06/20
+  * Birthday [https://gist.github.com/kei9327/ec8a36e99a9fe3081dea67f88cacb2f3] 2019/06/17
+  * DivisibleSumPairs [https://gist.github.com/kei9327/1b45830956ac14c95a7d231d958d47bf] 2019/06/18
+  * Migratory Birds [https://gist.github.com/kei9327/60ac48c4a959c401d99fba0579e19f8f] 2019/06/19
+  * DayOfProgrammer [https://gist.github.com/kei9327/7ae7be23e58c9943def1508ac21a1df8] 2019/06/20
  
