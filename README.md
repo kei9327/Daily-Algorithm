@@ -22,4 +22,4 @@
   * DayOfProgrammer [https://gist.github.com/kei9327/7ae7be23e58c9943def1508ac21a1df8] 2019/06/20
   * BonAppetit [https://gist.github.com/kei9327/51e1115ad884e3f05a82de3f63718ea6] 2019/06/21
   * SockMerchant [https://gist.github.com/kei9327/17d9227e4607a9a12ff80a28c6a67d6b] 2019/06/24
- 
+  * pageCount [https://gist.github.com/kei9327/7cb996c96f917f3e2776be075806818c] 2019/06/25
